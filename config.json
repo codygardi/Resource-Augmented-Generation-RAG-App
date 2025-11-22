@@ -1,0 +1,14 @@
+{
+  "api_base": "http://127.0.0.1:2222",
+  "models": [
+    "mistralai_-_mistral-7b-instruct-v0.2",
+    "llama-3.2-8x3b-moe-dark-champion-instruct-uncensored-abliterated-18.4b"
+  ],
+  "model_display_names": {
+    "mistralai_-_mistral-7b-instruct-v0.2": "mistral",
+    "llama-3.2-8x3b-moe-dark-champion-instruct-uncensored-abliterated-18.4b": "llama"
+  },
+  "default_model": "mistralai_-_mistral-7b-instruct-v0.2",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "top_k": 5
+}
