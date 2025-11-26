@@ -2,11 +2,10 @@ streamlit
 requests
 pydantic
 python-dotenv
-
 langchain
 langchain-community
 faiss-cpu
 sentence-transformers
-
 pypdf
+
 
